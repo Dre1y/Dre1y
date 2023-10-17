@@ -1,5 +1,5 @@
 # Hi, I'm Andrey!👋
-### Brazilian student!🟩🟨🟦
+### Brazilian Computer Science student!🟩🟨🟦
 
 Trying new things to get more knowledge and improve my programming skills focusing on interfaces and applications.
 
