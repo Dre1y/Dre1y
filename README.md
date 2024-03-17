@@ -3,9 +3,9 @@
 
 Trying new things to get more knowledge and improve my programming skills focusing on interfaces and applications.
 
-- 🔎 I'm currently learning about Frameworks!
-- ⚙️ I'm currently studying Software Engineering methodologies!
-- 🤖 I'm currently studying AI etics and regulations!
+- ⚛️ I'm currently learning about ReactJS!
+- 📝 I'm currently studying Algorithms!
+- ☁️ I'm currently studying MySQL!
 
 ## 🚀🖥️Technologies & Tools!
 <div>
