@@ -16,4 +16,5 @@ Trying new things to get more knowledge and improve my programming skills focusi
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png width="50" heigth="50"/>
 <img src=https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png width="50" heigth="50"/>
 <img src=https://files.raycast.com/sjxs3pxsc6k63ju0fzv8l3cu4v90 width="50" heigth="50"/>
+<img src=https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png width="50" heigth="50"/>
 </div>
