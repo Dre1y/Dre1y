@@ -3,9 +3,9 @@
 
 Trying new things to get more knowledge and improve my programming skills focusing on interfaces and applications.
 
-- ⚛️ I'm currently learning about ReactJS!
+- ⚛️ I'm currently learning React!
 - 📝 I'm currently studying Next.js!
-- ☁️ I'm currently studying MySQL!
+- 🪢 I'm currently studying Node.js!
 
 ## 🚀🖥️Technologies & Tools!
 <div>
