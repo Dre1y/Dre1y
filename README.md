@@ -49,6 +49,8 @@
   <img width="10" />
 
   <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo" />
