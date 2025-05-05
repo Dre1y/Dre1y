@@ -23,45 +23,45 @@
 
 <div align="center">
   <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo" />
+  <img width="10" />
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo" />
+  <img width="10" />
 
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo" />
+  <img width="10" />
 
   <!-- Banco de Dados -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo" />
+  <img width="10" />
 
   <!-- DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
 </div>
 
 ###
