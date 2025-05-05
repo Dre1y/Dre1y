@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Brazilian Computer Science student!🟩🟨🟦</h3>
+<h3 align="left">Brazilian Computer Science student 🟩🟨🟦</h3>
 
 ###
 
-<p align="left">Trying new things to get more knowledge and improve my programming skills focusing on interfaces and applications.</p>
+<p align="left">Proficient in greenfield development, designing and implementing full-stack systems from scratch with a strong focus on scalable, maintainable architectures and industry best practices.</p>
 
 ###
 
@@ -22,29 +22,46 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <!-- Linguagens -->
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo" />
+  <img width="12" />
+
+  <!-- Banco de Dados -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo" />
+  <img width="12" />
+
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo" />
 </div>
 
 ###
